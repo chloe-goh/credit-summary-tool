@@ -1,0 +1,6 @@
+CustomerID,CreditScore,Income,LoanAmount,LoanStatus
+C001,720,45000,15000,Approved
+C002,580,30000,10000,Pending
+C003,640,60000,20000,Rejected
+C004,550,28000,8000,Approved
+C005,690,52000,18000,Approved
