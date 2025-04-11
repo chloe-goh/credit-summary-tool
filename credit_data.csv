@@ -1,6 +1,11 @@
-CustomerID,CreditScore,Income,LoanAmount,LoanStatus
-C001,720,45000,15000,Approved
-C002,580,30000,10000,Pending
-C003,640,60000,20000,Rejected
-C004,550,28000,8000,Approved
-C005,690,52000,18000,Approved
+company_id,company_name,revenue_2023 (USD M),ebitda (USD M),total_debt (USD M),total_assets (USD M),cash_equivalents (USD M),moodys_rating,sp_rating,fitch_rating,industry,country
+2001,Microsoft Corp,211915,102000,81000,411000,80000,Aaa,AAA,AAA,Technology,USA
+2002,Tesla Inc,96773,15600,13600,106000,29000,Baa1,BBB+,BBB+,Automotive,USA
+2003,Nestle SA,98900,18000,54000,137000,12000,Aa2,AA,AA,Consumer Goods,Switzerland
+2004,Airbus SE,65400,6800,26000,129000,21000,A3,A-,A-,Aerospace,France
+2005,Barclays PLC,29500,9700,120000,1900000,45000,Baa2,BBB,BBB,Financial Services,UK
+2006,Petrobras,124000,48000,92000,220000,18000,Ba1,BB+,BB+,Energy,Brazil
+2007,Sony Group,84500,11200,28000,240000,18000,A3,BBB+,A-,Electronics,Japan
+2008,Ford Motor,176000,9800,159000,274000,32000,Ba3,BB-,BB+,Automotive,USA
+2009,Deutsche Bank,31500,6700,142000,1400000,25000,Baa3,BBB-,BBB-,Banking,Germany
+2010,Tata Steel,29000,5200,18000,35000,3000,Ba3,BB-,BB,Steel,India
